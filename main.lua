@@ -1,3 +1,1 @@
-getgenv().heheboi = function()
-    print("hehe boiiiii")
-end
+while true do end
